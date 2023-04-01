@@ -5,3 +5,5 @@ Git commands
 -> git commit -m "write your message"
 -> git restore filename
 -> git diff
+-> git log
+-> git branch
