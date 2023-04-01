@@ -1,0 +1,7 @@
+Git commands 
+-> git init
+-> git status
+-> git add filename
+-> git commit -m "write your message"
+-> git restore filename
+-> git diff
